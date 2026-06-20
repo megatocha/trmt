@@ -1,8 +1,8 @@
 {
   "effect.trmt.lightness": "Lejeritate",
-  "item.minecraft.potion.effect.trmt.lightness": "Pocțiune de lejeritate",
-  "item.minecraft.splash_potion.effect.trmt.lightness": "Pocțiune de lejeritate de aruncat",
-  "item.minecraft.lingering_potion.effect.trmt.lightness": "Pocțiune de lejeritate persistență",
+  "item.minecraft.potion.effect.trmt.lightness": "Poțiune de lejeritate",
+  "item.minecraft.splash_potion.effect.trmt.lightness": "Poțiune de lejeritate de aruncat",
+  "item.minecraft.lingering_potion.effect.trmt.lightness": "Poțiune de lejeritate persistentă",
   "item.minecraft.tipped_arrow.effect.trmt.lightness": "Săgeată de lejeritate",
 
   "block.trmt.eroded_grass_block": "Bloc de iarbă erodat",
